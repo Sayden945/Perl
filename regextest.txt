@@ -1,0 +1,8 @@
+Hello World
+Today is Friday
+Perl is fun
+1234
+hello bang bang
+that that
+# ignore
+shouldn't ignore
